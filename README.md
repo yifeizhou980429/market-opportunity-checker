@@ -1,0 +1,1 @@
+# market-opportunity-checker
